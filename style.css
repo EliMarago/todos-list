@@ -69,7 +69,7 @@ li {
 
 .todos li.completed {
   color: #e7e7e7;
-  background-color: #b2b2b2;
+  background-color: #9965a8;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .todos li.completed::before {
